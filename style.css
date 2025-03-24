@@ -54,3 +54,9 @@ nav {
 video {
     width: 100%;
 }
+.channel-logo {
+    width: 100px;   /* Adjust size */
+    height: auto;   /* Keep aspect ratio */
+    display: block; 
+    margin: 0 auto; /* Center align */
+}
