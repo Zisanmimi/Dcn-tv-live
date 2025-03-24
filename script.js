@@ -16,14 +16,20 @@ function displayCategories(channels) {
 }
 
 function displayChannels(channels) {
-    let list = document.getElementById("channel-list");
-    list.innerHTML = channels.map(channel => `
-        <div class="channel" onclick="playChannel('${channel.link}')">
+    const container = document.getElementById("channel-list");
+    container.innerHTML = "";  // Clear previous content
+
+    channels.forEach(channel => {
+        const channelCard = document.createElement("div");
+        channelCard.className = "channel-card";
+        channelCard.innerHTML = `
+            <img src="${channel.logo}" alt="${channel.name} Logo" class="channel-logo">
             <h3>${channel.name}</h3>
             <p>${channel.category}</p>
-            <button onclick="reportBrokenLink('${channel.name}'); event.stopPropagation();">Report</button>
-        </div>
-    `).join("");
+            <button onclick="reportChannel('${channel.name}')">Report</button>
+        `;
+        container.appendChild(channelCard);
+    });
 }
 
 function filterChannels() {
