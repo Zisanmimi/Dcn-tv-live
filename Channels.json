@@ -1,0 +1,17 @@
+[
+    {
+        "name": "News21",
+        "category": "News",
+        "link": "https://news21bangla.tv/live/"
+    },
+    {
+        "name": "TSports",
+        "category": "Sports",
+        "link": "https://www.tsports.com/"
+    },
+    {
+        "name": "Movie Channel",
+        "category": "Movies",
+        "link": "https://your-movie-stream-link.m3u8"
+    }
+]
