@@ -1,17 +1,14 @@
 [
-    {
-        "name": "News21",
-        "category": "News",
-        "link": "https://news21bangla.tv/live/"
-    },
-    {
-        "name": "TSports",
-        "category": "Sports",
-        "link": "https://www.tsports.com/"
-    },
-    {
-        "name": "Movie Channel",
-        "category": "Movies",
-        "link": "https://your-movie-stream-link.m3u8"
-    }
+  {
+    "name": "News21",
+    "category": "News",
+    "logo": "logos/news21.png",
+    "stream_url": "https://example.com/news21-stream"
+  },
+  {
+    "name": "TSports",
+    "category": "Sports",
+    "logo": "logos/tsports.png",
+    "stream_url": "https://example.com/tsports-stream"
+  }
 ]
