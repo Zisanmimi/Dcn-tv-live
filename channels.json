@@ -3,12 +3,12 @@
     "name": "News21",
     "category": "News",
     "logo": "logos/news21.png",
-    "stream_url": "https://example.com/news21-stream"
+    "stream_url": "https://news21bangla.tv/live/"
   },
   {
     "name": "TSports",
     "category": "Sports",
     "logo": "logos/tsports.png",
-    "stream_url": "https://example.com/tsports-stream"
+    "stream_url": "https://www.tsports.com/"
   }
 ]
