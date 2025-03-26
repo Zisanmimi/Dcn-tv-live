@@ -22,6 +22,12 @@
     "category": "Sports",
     "logo": "logos/maasranga.png",
     "stream_url": "https://maasranga.tv/live-streaming/#fvp_3,11s "
+  },
+  {
+    "name": "GTV",
+    "category": "Sports",
+    "logo": "logos/GTV.png",
+    "stream_url": "https://gazitv.com/ "
   }
 
 ]
