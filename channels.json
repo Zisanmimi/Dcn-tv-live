@@ -6,47 +6,45 @@
     "stream_url": "https://news21bangla.tv/live/"
   },
   {
-    "name": "TSports",
-    "category": "Sports",
+    "name": "ETV",
+    "category": "News",
     "logo": "logos/ETV.png",
     "stream_url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8 "
-  }
+  },
+  {
+    "name": "Channel24",
+    "category": "News",
+    "logo": "logos/24.png",
+    "stream_url": "https://www.channel24bd.tv/live "
+  },
   {
     "name": "Channel24",
     "category": "Sports",
     "logo": "logos/24.png",
     "stream_url": "https://www.channel24bd.tv/live "
-  }
+  },
   {
     "name": "Channel24",
     "category": "Sports",
     "logo": "logos/24.png",
     "stream_url": "https://www.channel24bd.tv/live "
-  }
+  },
   {
     "name": "Channel24",
     "category": "Sports",
     "logo": "logos/24.png",
     "stream_url": "https://www.channel24bd.tv/live "
-  }
+  },
   {
     "name": "Channel24",
     "category": "Sports",
     "logo": "logos/24.png",
     "stream_url": "https://www.channel24bd.tv/live "
-  }
+  },
   {
     "name": "Channel24",
     "category": "Sports",
     "logo": "logos/24.png",
     "stream_url": "https://www.channel24bd.tv/live "
-  }
-  {
-    "name": "Channel24",
-    "category": "Sports",
-    "logo": "logos/24.png",
-    "stream_url": "https://www.channel24bd.tv/live "
-  }
-
-
+  },
 ]
